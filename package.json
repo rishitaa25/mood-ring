@@ -1,9 +1,0 @@
-{
-    "name": "basic-socket",
-    "Version": "0.0.1",
-    "description": "Communication from an HTML document to a NodeJS using socket.io",
-    "dependencies": {
-        "socket.io": "^4.8.1",
-        "serialport": "^13.0.0"
-    }
-}
