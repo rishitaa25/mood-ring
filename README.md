@@ -4,7 +4,7 @@
 
 ---
 
-![Mood Ring Hardware Setup](images/Mood_ring_setup.jpg)
+![Mood Ring Hardware Setup](images/Mood_ring_setup.png)
 
 ---
 
